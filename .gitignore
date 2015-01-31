@@ -1,6 +1,7 @@
 
 #TEX generated files
 *.synctex
+*.synctex.gz
 *.out
 *.log
 *.blg
